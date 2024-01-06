@@ -1,0 +1,1 @@
+ceļaj ilguma kalkulators
